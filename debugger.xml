@@ -1,8 +1,0 @@
-<application>
-  <component name="XDebuggerSettings">
-    <data-views />
-    <general>
-      <option name="showDebuggerOnBreakpoint" value="false" />
-    </general>
-  </component>
-</application>
